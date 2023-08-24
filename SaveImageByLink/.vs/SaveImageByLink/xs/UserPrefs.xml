@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{BD088CE2-55A7-43CB-84FA-E042D0445677}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SaveImageByLink FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SaveImageByLink/Views/Image/Index.cshtml">
+    <Files>
+      <File FileName="SaveImageByLink/Views/Image/Index.cshtml" Line="39" Column="60" />
+      <File FileName="SaveImageByLink/Views/Image/Edit.cshtml" Line="1" Column="36" />
+      <File FileName="SaveImageByLink/Views/Image/Create.cshtml" Line="24" Column="47" />
+      <File FileName="SaveImageByLink/Views/Image/Details.cshtml" Line="1" Column="31" />
+      <File FileName="SaveImageByLink/Views/Image/Delete.cshtml" Line="15" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SaveImageByLink" expanded="True">
+            <Node name="SaveImageByLink" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Image" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
