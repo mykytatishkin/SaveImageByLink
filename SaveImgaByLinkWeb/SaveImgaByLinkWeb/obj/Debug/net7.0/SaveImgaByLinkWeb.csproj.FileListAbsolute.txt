@@ -1,0 +1,8 @@
+C:\Users\Mykyta\source\repos\SaveImgaByLinkWeb\SaveImgaByLinkWeb\obj\Debug\net7.0\SaveImgaByLinkWeb.csproj.AssemblyReference.cache
+C:\Users\Mykyta\source\repos\SaveImgaByLinkWeb\SaveImgaByLinkWeb\obj\Debug\net7.0\SaveImgaByLinkWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mykyta\source\repos\SaveImgaByLinkWeb\SaveImgaByLinkWeb\obj\Debug\net7.0\SaveImgaByLinkWeb.AssemblyInfoInputs.cache
+C:\Users\Mykyta\source\repos\SaveImgaByLinkWeb\SaveImgaByLinkWeb\obj\Debug\net7.0\SaveImgaByLinkWeb.AssemblyInfo.cs
+C:\Users\Mykyta\source\repos\SaveImgaByLinkWeb\SaveImgaByLinkWeb\obj\Debug\net7.0\SaveImgaByLinkWeb.csproj.CoreCompileInputs.cache
+C:\Users\Mykyta\source\repos\SaveImgaByLinkWeb\SaveImgaByLinkWeb\obj\Debug\net7.0\SaveImgaByLinkWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mykyta\source\repos\SaveImgaByLinkWeb\SaveImgaByLinkWeb\obj\Debug\net7.0\SaveImgaByLinkWeb.RazorAssemblyInfo.cache
+C:\Users\Mykyta\source\repos\SaveImgaByLinkWeb\SaveImgaByLinkWeb\obj\Debug\net7.0\SaveImgaByLinkWeb.RazorAssemblyInfo.cs
