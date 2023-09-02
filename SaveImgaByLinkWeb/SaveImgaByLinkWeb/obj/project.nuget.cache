@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1UokgPNWgkCyMo93Jt4PR0WtKUZUsIOYThvER/RSQpiFQrTH0bwgngtZU+Gko2TmumB/iQENNnMPPkU3EeG1TQ==",
+  "dgSpecHash": "2kY3iBLvP1TqZGCW0FVoPtuVQrc89POLFA3pHTl/cu/1EYKg7zRJAbzhf2SxGQuQaFgjnLS/OejuvlkTr5KtQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mykyta\\source\\repos\\SaveImgaByLinkWeb\\SaveImgaByLinkWeb\\SaveImgaByLinkWeb.csproj",
+  "projectFilePath": "C:\\Users\\Mykyta\\Documents\\GitHub\\SaveImageByLink\\SaveImgaByLinkWeb\\SaveImgaByLinkWeb\\SaveImgaByLinkWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mykyta\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Mykyta\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
